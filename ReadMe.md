@@ -12,3 +12,4 @@
 ## วิธีการใช้งาน (How to Run)
 1. Clone repository นี้ลงในเครื่องขอองคุณ
   ```bash
+  git clone [https://github.com/Chaiwat223/_SE1-69_Calculator_Chaiwat.git]
